@@ -1,10 +1,6 @@
-## Happiness Detection
-Using Keras library to detect whether an image is Happy or Not Happy.
-It is a binary classification type of problem where the model simply 
-predicts '1' for happy and '0' for not happy.
-![alt text](https://github.com/Crazz-Zaac/happiness-detection/blob/master/images/theme.png)
+## Neural Style Transfer 
+This is a repo in link to one of my blog in [github page](https://crazz-zaac.github.io/). You can find whole topic's discussion there.
 
 
 # References
-This project is from one of the popular deeplearning.ai specialization course
-in the coursera platform. 
+This whole work is a part of Coursera's deeplearning.ai course: [Convolutional Neural Network](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)'s Week 4's course and assignment
